@@ -1,0 +1,1 @@
+build-essential git libx11-dev libxft-dev libharfbuzz-dev libfontconfig1-dev
